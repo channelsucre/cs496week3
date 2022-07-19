@@ -1,0 +1,3 @@
+rep "Project@cs496week3@cloud"
+  path "/"
+    smartbranch "/main"
