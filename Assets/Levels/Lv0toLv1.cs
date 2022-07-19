@@ -16,7 +16,7 @@ public class Lv0toLv1 : MonoBehaviour
     void Update()
     {
         if(target.transform.position.x > 39f && target.transform.position.y<-8f){
-            Invoke("toLv1", 1f);
+            toLv1();
         }
 
     }
