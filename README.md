@@ -1,6 +1,7 @@
 # Ctrl-Z
 
 Ctrl-Z는 두 개의 이어진 맵과 시간 역행이라는 독특한 메커니즘을 사용한 인디 플랫포머 게임입니다.
+
 ![Banner](https://user-images.githubusercontent.com/65131817/179740028-b3ad6260-6245-4bc0-8660-128fe260613c.png)
 
 ## Authors
