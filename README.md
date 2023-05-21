@@ -33,6 +33,14 @@ Ctrl-Z는 두 개의 이어진 맵과 시간 역행이라는 독특한 메커니
 - 하단 맵에서 W키를 누를 시 상단 맵을 확인할 수 있습니다.
 - R키를 누르면 시간을 되돌려 상단 맵의 시작 지점으로 되돌아갈 수 있습니다.
 
+## In-Game
+![map1_1](https://github.com/channelsucre/cs496week3/assets/108382134/0fedf86a-53f7-42d5-93bf-99dd04341843)
+![map1_2](https://github.com/channelsucre/cs496week3/assets/108382134/551712bd-43c8-43cf-a56f-dc9c4ef425c9)
+![map2_1](https://github.com/channelsucre/cs496week3/assets/108382134/a65d499e-5411-41f0-84ab-129d46ca9525)
+![map2_2](https://github.com/channelsucre/cs496week3/assets/108382134/b5f30561-c485-438d-a2ac-6164e9281b57)
+![map2_3](https://github.com/channelsucre/cs496week3/assets/108382134/dc77d208-7527-429f-b700-ac1343c1cb8a)
+
+
 ## Implementation
 
 ### Player Movement
